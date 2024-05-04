@@ -1,2 +1,2 @@
 # Java-Script-Quiz-Game
-Front End codes for quiz game
+Front End ,CSS, Javascript codes for quiz game
